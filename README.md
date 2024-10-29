@@ -32,3 +32,4 @@ In case of thai font in [jspdf](https://www.npmjs.com/package/jspdf) need font f
 This demo is using of [exceljs](https://www.npmjs.com/package/exceljs) (folder `excel`).
 
 - excel.gen     - basic xlsx generate
+- excel.read    - basic xlsx reading
